@@ -14,7 +14,7 @@ A Figma board is used to keep the design uniform throughout development, and it 
 
 *Decompose the MVP into functional blocks.*
 
-`/** I DONT FUCKING KNOW */`
+`/** I DONT KNOW */`
 
 ## Data Model
 
