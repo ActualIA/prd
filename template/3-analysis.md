@@ -5,9 +5,9 @@
 
 There are three factors that we have to analyse : source mixing, subject personalization and centralization of news providers.
 
-Nowadays, there are a lot of news providers. However, most of them have their own journalists and do not mix sources up. There are some examples like Ground News that mix political sources up to have less biaised news, or at least now from which political side sources come from.
-Furthermore, news providers are often specialized in one subject. Search engines and newsletters solve this problem, but are not as usable as an app (newletters can sometimes be hard to unsubcribe from). Newsletters like "Pour la Science" try to mix sources together, but the user doesn't have control over which sources are used.
-Another issue that newsletters address is the multiciplicity of sources locations. However, the same problem arises : The user doesn't get to choose the sources.
+Nowadays, there are a lot of news providers. However, most of them have their own journalists and do not mix sources up. There are some examples like Ground News that mix political sources up to have less biaised news, or at least tell you from which political side the sources come from.
+Furthermore, news providers are often specialized in one subject. Search engines and newsletters solve this problem, but are not as usable as an app (newletters can sometimes be hard to unsubcribe from). 
+Newsletters also try to solve the problem of source mixing, a notable example of this is "Pour la Science", a newsletter that mixes sources up to have less biaised news. However, the user doesn't have control over which sources are used. 
 
 It is important to note that ActualIA is not a news provider but a news aggregator, which makes it complementary to news providers.
 
