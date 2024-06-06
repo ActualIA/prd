@@ -1,8 +1,5 @@
 # Analysis of the Situation
 
-> *What are the competing products in the market today?*
-> *What are the complementary products in the market today?*
-
 There are three factors that we have to analyse : source mixing, subject personalization and centralization of news providers.
 
 Nowadays, there are a lot of news providers. However, most of them have their own journalists and do not mix sources up. There are some examples like [*GroundNews*](https://ground.news/) that mix political sources up to have less biaised news, or at least tell you from which political side the sources come from.
