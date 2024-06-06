@@ -10,4 +10,4 @@ It is important to note that ActualIA is not a news provider but a news aggregat
 
 ActualIA is also capable of providing context for an article, a feature similarly addressed by assistants like Google Assistant and ChatGPT.
 
-Having a centralized place where someone can find all the news they are interested in while fetching them from the sources is an idea that didn't exist at the time we started the project. However, while we were developping the project, another app came out with a very similar concept: [*Azernis*](https://www.azernis.com/). This idea is currently a novel field that has yet to be explored, and it is likely that many new actors will enter the market in the coming months.
+Having a centralized place where someone can find all the news they are interested in while fetching them from the sources is an idea that didn't exist at the time we started the project. However, while we were developing the project, another app came out with a very similar concept: [*Azernis*](https://www.azernis.com/). This idea is currently a novel field that has yet to be explored, and it is likely that many new actors will enter the market in the coming months.
