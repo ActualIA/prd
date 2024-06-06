@@ -8,11 +8,11 @@
 
 *Which privacy features do you need from the phone?*
 
-Authentication is handled in two ways, either via the Google SSO or the Anonymous Sign-In function provided by Supabase. In both cases, the amount of information we store is minimal (just the user email, in the case of a Google account), and it is kept by our Supabase instance.
+Authentication is handled in two ways, either via the Google SSO or the Anonymous Sign-In function provided by Supabase. In both cases, the amount of information we store is minimal (just the user email, display name and profile picture link, in the case of a Google account), and it is kept by our Supabase instance.
 
-We also require multiple authorization from the user to access their device's hardware, notably: 
+We also require multiple authorizations from the user to access their device's hardware, notably: 
  - *Camera access*, for OCR article context inspection; 
- - *Storage access*, in order to write the fetched articles, transcripts and audios to cache in the device's storage; 
+ - *Storage access*, in order to write the generated contexts, transcripts and audios to cache in the device's storage; 
 
 ## Adoptions, Scalability and Availability
 
