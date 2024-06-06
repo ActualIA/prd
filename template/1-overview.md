@@ -9,11 +9,13 @@
 
 ActualIA is an LLM powered news digest system that analyzes a user's defined news feeds and provides timely, relevant summaries of the day's main events as a personalized podcast, every morning, straight to their headphones. 
 
-ActualIA knows what you're interested in, and won't mention any news that isn't relevant to you. If a story caught your eye, you can delve deeper into it, inspect the source and form your own opinion. 
+ActualIA knows what you're interested in, and won't mention any news that isn't relevant to you; if a story caught your eye, you can delve deeper into it, inspect the source and form your own opinion. 
 
 An article in a newspaper piques your interest, but you want more context around it? Maybe in your native language? Point your phone's camera at it, and let your customized press team give you the bullet points you need to fully understand it. 
 
 ---
+
+### In-depth description
 
 ActualIA aims to become the user's main way of interacting with the news. It allows users to define their main news sources (Google News, RSS Feeds, Telegram channels), and their main interests, and from that it centralizes, filters and summarizes the inputs autonomously, succinctly and precisely. 
 
