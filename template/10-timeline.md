@@ -16,10 +16,10 @@ over a period of **9 weeks** split in 3 intermediary milestones. The goal of eac
  - **Milestone 3:** Full deployment, beta test to launch pipeline
 
 ##### Milestone 1
-  ------------------------------------------------------------------------------------------------------
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------
   Sprint Goal                         Outcomes
-  ------ ---------------------------- ------------------------------------------------------------------
+  ------ ---------------------------- ---------------------------------------------------------------------------------------------------------------------------
   1      UIUX work, cleanup           A consistent graphic design document that can be referenced by UI efforts; A clean codebase ready to accept a new platform.
-  ------ ---------------------------- ------------------------------------------------------------------
-  2      iOS developemnt              Efforts to identify and abstract away platform-specific code; integration to specific iOS drivers and permissions; 
-  ------ ---------------------------- ------------------------------------------------------------------
+  ------ ---------------------------- ---------------------------------------------------------------------------------------------------------------------------
+  2      iOS development              Efforts to identify and abstract away platform-specific code; integration to specific iOS drivers and permissions; 
+  ------ ---------------------------- ---------------------------------------------------------------------------------------------------------------------------
