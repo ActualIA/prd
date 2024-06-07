@@ -2,8 +2,8 @@
 
 ActualIA would have two versions : the free one and the paid one.
 
-- Free plan : No audio generation, no news regeneration, limited to 3three context generation per day.
-- Paid plan : Illimited\* audio, news and context generation
+- Free plan : No audio generation, no news regeneration, limited to 3 context generations per day.
+- Paid plan : Unlimited\* audio, news and context generation
 
 \* : Paid plan will still be limited to 20 audio and news generation and 50 context generation to limit malicious users and have time to detect them.
 

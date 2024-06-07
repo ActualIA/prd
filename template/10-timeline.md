@@ -36,5 +36,5 @@ over a period of **9 weeks** split in 3 intermediary milestones. The goal of eac
   |Sprint          |Goal                            | Outcomes                                                                                                                          |
   |:--------------:|--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
   |7               | Rollout to alpha testing       | Rollout to voluntary users for a round of real-world usage testing; active attention to bug fixes as they are reported by them.   |
-  |8               | Feature development            | Implement big fixes and features that arose in the alpha testing phase; all features are fully tested and integrated.             |
+  |8               | Feature development            | Implement bug fixes and features that arose in the alpha testing phase; all features are fully tested and integrated.             |
   |9               | Full rollout                   | Main marketing efforts, to invite new users (free trials, contests on social media); successful rollout of the app to the public. |
