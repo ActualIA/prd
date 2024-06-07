@@ -22,3 +22,12 @@ over a period of **9 weeks** split in 3 intermediary milestones. The goal of eac
   1          UIUX work, cleanup           A consistent graphic design document that can be referenced by UI efforts; A clean codebase ready to accept a new platform.
   2          iOS development              Efforts to identify and abstract away platform-specific code; integration to specific iOS drivers and permissions; 
   ---------- ---------------------------- ---------------------------------------------------------------------------------------------------------------------------
+
+  <table>
+    <tr>
+      <th> test </th>
+      <th> test </th>
+      <th> test </th>
+      <th> test </th>
+    </tr>
+  </table>
