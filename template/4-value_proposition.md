@@ -1,10 +1,5 @@
 # The Value Proposition
 
-> *Describe the value proposition and argue that it is:*
-> *1. Easy to communicate*
-> *2. Defensible*
-> *3. Relevant*
-
 Given the situation above, our product aims to satisfy the needs of a demographic that understands its need to stay on top of the news every day, but that feels they lack the time, energy and investment necessary to do so. We offer an all in one solution to centralize the events that might interest a user, and deliver them as audio, minimizing the amount of time they spend looking at their screen. 
 
 Our customers are the users, both on the free and the paid plans. For them, it's clear that our product offers real value. 

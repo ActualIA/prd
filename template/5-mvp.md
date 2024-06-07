@@ -52,7 +52,7 @@ Another improvement that could be made would be direct collaboration with newspa
 
 ## Features Outside the Scope
 
-News rating will not be implemented in the MVP. Being able to rate it is not hard (like / dislike) but having that kind of interaction taken into account would mean needing to update the prompt generating the news accordingly, requiring a whole prompt engineering process.
+News rating will not be implemented in the MVP. The rating system (like or dislike) isn't complex to implement, but having that kind of interaction taken into account would mean needing to update the prompt generating the news accordingly, requiring a whole prompt engineering process which is outside of the scope for an MVP.
 
 Setting a custom voice model from a recording, so it reads the news instead of the predefined voices, could be possible, but this comes at two main costs: 
 

@@ -1,10 +1,5 @@
 # Overview
 
-> *Maximum: 2 pages*
-> *What is this project about?*
-> *Describe succinctly and precisely its purpose.*
-> *Include a 3-sentence (max) elevator pitch.*
-
 ### Elevator pitch
 
 ActualIA is an LLM powered news digest system that analyzes a user's defined news feeds and provides timely, relevant summaries of the day's main events as a personalized podcast, every morning, straight to their headphones. 
