@@ -33,8 +33,8 @@ over a period of **9 weeks** split in 3 intermediary milestones. The goal of eac
 
 ##### Milestone 3
 
-  |Sprint          |Goal                            | Outcomes                                                                                                                    |
-  |:--------------:|--------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-  |7               | UIUX work, cleanup             | A consistent graphic design document that can be referenced by UI efforts; A clean codebase ready to accept a new platform. |
-  |8               | iOS development                | Efforts to identify and abstract away platform-specific code; integration to specific iOS drivers and permissions.          |
-  |9               | iOS testing                    | Clean implementation of iOS code, tested and up to spec with Android; full backend integration.                             |
+  |Sprint          |Goal                            | Outcomes                                                                                                                          |
+  |:--------------:|--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+  |7               | Rollout to alpha testing       | Rollout to voluntary users for a round of real-world usage testing; active attention to bug fixes as they are reported by them.   |
+  |8               | Feature development            | Implement big fixes and features that arose in the alpha testing phase; all features are fully tested and integrated.             |
+  |9               | Full rollout                   | Main marketing efforts, to invite new users (free trials, contests on social media); successful rollout of the app to the public. |
