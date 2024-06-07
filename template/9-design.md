@@ -10,7 +10,26 @@ A Figma board is used to keep the design uniform throughout development, and it 
 
 *Decompose the MVP into functional blocks.*
 
-`/** I DONT KNOW */`
+
+The backend of ActualIA is designed to efficiently manage user preferences, cache generated summaries, and seamlessly integrate with the LLM to generate and serve news summaries. It consists of two primary components: a database, Typescript Edge Functions.
+
+#### Database
+**Purpose**: The database stores user preferences and cached summaries.
+
+**Functionality**:
+ - User Preferences: stores information such as user-selected news feeds and other customization settings.
+ - Cache Summaries: stores previously generated summaries and audio files, to profit from a single LLM call and improve response times.
+ - Data Retrieval and Update: exploit the Supabase defined API in order to retrieve and set user settings and summaries.
+
+#### Edge Functions
+**Purpose**: Typescript-based functions handle backend logic, including request processing and LLM interaction.
+
+**Functionality**:
+ - Alarm handling: defines and handles the request behavior on alarm.
+ - LLM Interaction: sends requests to the LLM and handles the responses.
+ - Cache Management: checks for existing summaries in the cache before making LLM requests and updates the cache with new summaries.
+
+Overall, the backend of ActualIA is designed to provide a robust, efficient, and secure service for delivering personalized news summaries to users. By leveraging a well-structured database, Typescript-based Edge Functions, and seamless LLM integration, the backend ensures high performance and reliability.
 
 ## Data Model
 
