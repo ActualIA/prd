@@ -61,7 +61,7 @@ Setting a custom voice model from a recording, so it reads the news instead of t
  - the technical cost, since we would require a new AI model, and our backend would need to be modified in order to integrate it in its work flow. Doable, but it requires thought to properly implement;
  - the ethical cost, since would have to consider security and ethics issues, which is out of scope for a MVP.
 
-In any case, being able to have it's partner or friend voice to read the news would be a great feature, and it will be considered when the time is right.
+In any case, being able to have one's partner or friend's voice to read the news would be a great feature, and it will be considered when the time is right.
 
 Additionally, one of the risks of such a closely customized news experience is amplifying pre-existing news biases in users, with their selection of news channels. This might lead to the [*filter bubble effect*](https://en.wikipedia.org/wiki/Filter_bubble). This is a phenomenon we need to keep in mind, but tackling the problem is currently impossible given our team composition: while we all have an interest in journalism, tackling this kind of bias requires a much deeper understanding of its causes and fixes, which is beyond the scope of our skills. This would require close collaborations with experts in media or journalism studies, or other similar fields.
 
