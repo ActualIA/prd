@@ -4,7 +4,7 @@ ActualIA's core feature is the generation of a personalized news transcript, sum
 
 The app also allows users to inspect the original source of any news event cited in the transcript. Additionally, users can point their phone's camera at an article in a newspaper, and the app will provide context regarding said article, using Google ML Kit's OCR recognition technology as well as OpenAI GPT's API to get the actual context.
 
-Another feature present in the app is the RSS-like view, which allows users to see the untouched text of the news articles, as returned by the source.           
+Another feature present in the app is the RSS-like view, which allows users to see the untouched text of the news articles, as returned by the source.
 
 ![Architecture Diagram](https://github.com/ActualIA/prd/assets/93340253/155a4396-757b-4395-ad92-8108654969e2)
 
