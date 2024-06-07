@@ -25,3 +25,4 @@ over a period of **9 weeks** split in 3 intermediary milestones. The goal of eac
   Sprint Goal            Outcomes
   ------ --------------- -----------------------------------------------------
   1      UIUX Work       A consistent graphic design document that can be referenced by UI efforts; A clean codebase ready to accept a new platform.
+  ------ --------------- -----------------------------------------------------
