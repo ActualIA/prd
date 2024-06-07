@@ -17,24 +17,24 @@ over a period of **9 weeks** split in 3 intermediary milestones. The goal of eac
 
 ##### Milestone 1
   
-  |Sprint    |Goal                        | Outcomes                                                                                                                    |
-  |:--------:|----------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-  |1         |UIUX work, cleanup          | A consistent graphic design document that can be referenced by UI efforts; A clean codebase ready to accept a new platform. |
-  |2         |iOS development             | Platform-specific code is properly tagged and abstracted away; integration to specific iOS drivers and permissions.         |
-  |3         |iOS testing                 | Clean implementation of iOS code, tested and up to spec with Android; full backend integration.                             |
+  |Sprint          |Goal                            | Outcomes                                                                                                                    |
+  |:--------------:|--------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+  |1               | UIUX work, cleanup             | A consistent graphic design document that can be referenced by UI efforts; A clean codebase ready to accept a new platform. |
+  |2               | iOS development                | Platform-specific code is properly tagged and abstracted away; integration to specific iOS drivers and permissions.         |
+  |3               | iOS testing                    | Clean implementation of iOS code, tested and up to spec with Android; full backend integration.                             |
 
 ##### Milestone 2
 
-  |Sprint    |Goal                        | Outcomes                                                                                                                               |
-  |:--------:|----------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
-  |4         |Internal testing            | Verified stability to automatized load testing, high density stress testing; rapid and effective addressing of the bugs that appear.   |
-  |5         |App Store integration       | Administrative preparations for smooth launch on the Google Play Store and the Apple App Store.                                        |
-  |6         |Pre-launch marketing        | Visibility on social media, physical communication near campuses and offices; interactive campaign to ready the public to our product. |
+  |Sprint          |Goal                            | Outcomes                                                                                                                               |
+  |:--------------:|--------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+  |4               | Internal testing               | Verified stability to automatized load testing, high density stress testing; rapid and effective addressing of the bugs that appear.   |
+  |5               | App Store integration          | Administrative preparations for smooth launch on the Google Play Store and the Apple App Store.                                        |
+  |6               | Pre-launch marketing           | Visibility on social media, physical communication near campuses and offices; interactive campaign to ready the public to our product. |
 
 ##### Milestone 3
 
-  |Sprint    |Goal                        | Outcomes                                                                                                                    |
-  |:--------:|----------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-  |7         |UIUX work, cleanup          | A consistent graphic design document that can be referenced by UI efforts; A clean codebase ready to accept a new platform. |
-  |8         |iOS development             | Efforts to identify and abstract away platform-specific code; integration to specific iOS drivers and permissions.          |
-  |9         |iOS testing                 | Clean implementation of iOS code, tested and up to spec with Android; full backend integration.                             |
+  |Sprint          |Goal                            | Outcomes                                                                                                                    |
+  |:--------------:|--------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+  |7               | UIUX work, cleanup             | A consistent graphic design document that can be referenced by UI efforts; A clean codebase ready to accept a new platform. |
+  |8               | iOS development                | Efforts to identify and abstract away platform-specific code; integration to specific iOS drivers and permissions.          |
+  |9               | iOS testing                    | Clean implementation of iOS code, tested and up to spec with Android; full backend integration.                             |
