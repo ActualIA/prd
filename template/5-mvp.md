@@ -14,8 +14,6 @@ ActualIA's MVP won't just be a black box that only provides the news, but it wil
 
 ## Personas and Scenarios
 
-*Who are the target personas for this product?*
-
 ActualIA targets a demographic stuck between their want to stay informed on their interests and their lack of time. We offer them access to a customized briefing summarizing the important news of the day, automated and easy to skim. 
 
 At ActualIA, we believe the news to have an important social aspect: that's why we offer ways to quickly share your transcripts to others, whether they are users of the app or not. We expect word of mouth to be a great adoption mechanism amongst our target demographics, such as students or office workers, since they tend to share interests and routines, and to find utility in the app. 
