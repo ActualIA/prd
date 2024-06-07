@@ -7,5 +7,3 @@ The app also allows users to inspect the original source of any news event cited
 Another feature present in the app is the RSS-like view, which allows users to see the untouched text of the news articles, as returned by the source.
 
 ![Architecture Diagram](https://github.com/ActualIA/prd/assets/93340253/155a4396-757b-4395-ad92-8108654969e2)
-
-

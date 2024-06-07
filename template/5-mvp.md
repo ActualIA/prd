@@ -10,21 +10,20 @@ The goal of ActualIA's MVP is to bring the news to the user. To achieve it, it w
 ActualIA's MVP won't just be a black box that only provides the news, but it will also be able to tell where it comes from. To achieve this goal, ActualIA's MVP will feature :
 
 - The original article for every summarized news, with a link to its original source;
-- News context inspection, that can be used by simply taking a photo of an article to get the context around it. This feature is powered by OCR (*Optical Character Recognition*) and the same LLM used in the rest of the app. 
+- News context inspection, that can be used by simply taking a photo of an article to get the context around it. This feature is powered by OCR (*Optical Character Recognition*) and the same LLM used in the rest of the app.
 
 ## Personas and Scenarios
 
-*Who are the target personas for this product?*
+ActualIA targets a demographic stuck between their want to stay informed on their interests and their lack of time. We offer them access to a customized briefing summarizing the important news of the day, automated and easy to skim.
 
-ActualIA targets a demographic stuck between their want to stay informed on their interests and their lack of time. We offer them access to a customized briefing summarizing the important news of the day, automated and easy to skim. 
-
-At ActualIA, we believe the news to have an important social aspect: that's why we offer ways to quickly share your transcripts to others, whether they are users of the app or not. We expect word of mouth to be a great adoption mechanism amongst our target demographics, such as students or office workers, since they tend to share interests and routines, and to find utility in the app. 
+At ActualIA, we believe the news to have an important social aspect: that's why we offer ways to quickly share your transcripts to others, whether they are users of the app or not. We expect word of mouth to be a great adoption mechanism amongst our target demographics, such as students or office workers, since they tend to share interests and routines, and to find utility in the app.
 
 This is also why we have made the installation and onboarding aspect of the application as fast and lean as possible: when a potential user comes across an interesting news transcript shared by a friend, it is going to be very easy to follow the leads, install the app, and be an active user, at least for a period, to try it out.
 
-The application will likely be used daily. Users will most likely set their alarms at two main times: 
- - In the morning, to wake up. This allows them to integrate the podcast in their morning routine, be it at home, while eating, or in their commute.
- - in the evening, after work or school, going back home.
+The application will be used daily, since most of the users will setup an alarm through the applicationS. Users will most likely set their alarms at two main times:
+
+- In the morning, to wake up. This allows them to integrate the podcast in their morning routine, be it at home, while eating, or in their commute.
+- In the evening, after work or school, going back home.
 
 ## User Stories and Key Features
 
@@ -50,19 +49,19 @@ If the difference between MAU and DAU is too big, it means that our audience is 
 
 Regarding feedback, we estimate that having a relatively big DAU is enough. In a next version, we will implement feedbacks on news transcript (users will be able to like or dislike a news) which will be useful for fine-tuning user preferences, as well as judging transcript usefulness amongst users. We will also add a more detailed feedback section on the app, so that users can suggest new features or improvements.
 
-Another improvement that could be made would be direct collaboration with newspapers, in order to more cleanly use their articles as source. 
+Another improvement that could be made would be direct collaboration with newspapers, in order to more cleanly use their articles as source.
 
 ## Features Outside the Scope
 
 News rating will not be implemented in the MVP. The rating system (like or dislike) isn't complex to implement, but having that kind of interaction taken into account would mean needing to update the prompt generating the news accordingly, requiring a whole prompt engineering process which is outside of the scope for an MVP.
 
-Setting a custom voice model from a recording, so it reads the news instead of the predefined voices, could be possible, but this comes at two main costs: 
+Setting a custom voice model from a recording, so it reads the news instead of the predefined voices, could be possible, but this comes at two main costs:
 
- - the technical cost, since we would require a new AI model, and our backend would need to be modified in order to integrate it in its work flow. Doable, but it requires thought to properly implement;
- - the ethical cost, since would have to consider security and ethics issues, which is out of scope for a MVP.
+- the technical cost, since we would require a new AI model, and our backend would need to be modified in order to integrate it in its work flow. Doable, but it requires thought to properly implement;
+- the ethical cost, since would have to consider security and ethics issues, which is out of scope for a MVP.
 
 In any case, being able to have one's partner or friend's voice to read the news would be a great feature, and it will be considered when the time is right.
 
 Additionally, one of the risks of such a closely customized news experience is amplifying pre-existing news biases in users, with their selection of news channels. This might lead to the [*filter bubble effect*](https://en.wikipedia.org/wiki/Filter_bubble). This is a phenomenon we need to keep in mind, but tackling the problem is currently impossible given our team composition: while we all have an interest in journalism, tackling this kind of bias requires a much deeper understanding of its causes and fixes, which is beyond the scope of our skills. This would require close collaborations with experts in media or journalism studies, or other similar fields.
 
-We will also not consider any kind of social network-like feature, such as following profiles or other strict interaction between users, because we believe it to be outside of the spirit of the app. The engineering manpower we have is best used elsewhere to make the processes better, and the network aspect would clutter the streamlined onboarding and usage flows we have defined for our application. 
+We will also not consider any kind of social network-like feature, such as following profiles or other strict interaction between users, because we believe it to be outside of the spirit of the app. The engineering manpower we have is best used elsewhere to make the processes better, and the network aspect would clutter the streamlined onboarding and usage flows we have defined for our application.

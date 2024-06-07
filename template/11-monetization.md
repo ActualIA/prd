@@ -17,4 +17,4 @@ Since we are expecting 10% of paid plan over all users, a paid plan user would h
 
 Considering that these generation costs fluctuate often and that ActualIA needs to be maintained, the paid plan will be proposed for 5,99\$. If we achieve our 5000 user basis, this will lead to a revenue stream of around 1430\$ per month, which can be used to pay a few hours per month a developper to maintain the application and to handle administrative expenses.
 
-If more revenue comes it, it will be reinvested in the developpement of the application to improve it.
+If more revenue comes in, it will be reinvested in the developpement of the application to improve it.

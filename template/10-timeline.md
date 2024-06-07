@@ -1,11 +1,10 @@
 # Timeline/Resource Planning
 
-We plan to iterate over the POC product we submitted on our 4th semester Milestone in order to build the **Minimum Viable Product** this document describes. To do this, we intend to mobilize a team of **7 engineers**
-over a period of **9 weeks** split in 3 intermediary milestones. The goal of each is: 
+We plan to iterate over the POC product we submitted on our 4th semester Milestone in order to build the **Minimum Viable Product** this document describes. To do this, we intend to mobilize a team of **7 engineers** over a period of **9 weeks** split in 3 intermediary milestones. The goal of each is:
 
- - **Milestone 1:** Design consolidation and iOS development
- - **Milestone 2:** Internal testing, pre-launch marketing efforts
- - **Milestone 3:** Full deployment, beta test to launch pipeline
+- **Milestone 1:** Design consolidation and iOS development
+- **Milestone 2:** Internal testing, pre-launch marketing efforts
+- **Milestone 3:** Full deployment, beta test to launch pipeline
 
 ##### Milestone 1
   
